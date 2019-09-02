@@ -1,13 +1,12 @@
-package console
+package main
 
 import (
 	"fmt"
 	"os"
 	"runtime"
-	// "spider/src/util"
-	"time"
 	"strconv"
 	"strings"
+	"time"
 )
 type color struct {
 	error map[string]string
