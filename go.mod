@@ -1,3 +1,3 @@
-module github.com/luozuzhu/console.git
+module github.com/luozuzhu/console
 
 go 1.12
